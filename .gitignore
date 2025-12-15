@@ -1,0 +1,15 @@
+.modules.order.cmd  
+usb_guard.ko
+usb_guard.mod.c
+.usb_guard.mod.o.cmd
+Module.symvers
+.usb_guard.ko.cmd
+.usb_guard.mod.cmd
+usb_guard.o
+.git
+modules.order
+.Module.symvers.cmd
+usb_guard.mod
+usb_guard.mod.o
+.usb_guard.o.cmd
+usb_mines
