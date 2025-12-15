@@ -192,7 +192,7 @@ sudo groupadd usbkey
 
 ```bash
 sudo mkdir -p /opt/usbkey
-sudo cp /usr/bin/gnome-mines /opt/usbkey/gnome-mines.real
+sudo cp /usr/games/gnome-mines /opt/usbkey/gnome-mines.real
 sudo chown root:usbkey /opt/usbkey/gnome-mines.real
 sudo chmod 750 /opt/usbkey/gnome-mines.real
 ```
