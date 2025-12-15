@@ -240,7 +240,6 @@ sudo apt install -y gnome-mines
 * `Makefile` — Kbuild makefile for module compilation
 * `run_with_usb_key.sh` — simple script wrapper (demo access control)
 * `usb_launch.c` — compiled launcher source (reads `/proc/usb_guard`, executes real app)
-* `usb_mines` — compiled launcher binary (example)
 
 ---
 
